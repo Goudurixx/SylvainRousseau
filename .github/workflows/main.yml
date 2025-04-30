@@ -1,0 +1,4 @@
+- name: Publish KMP Web App To GitHub Pages
+  uses: openMF/mifos-x-actionhub-web-publish@v1.0.0
+  with:
+    web_package_name: 
